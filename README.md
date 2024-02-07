@@ -2,7 +2,7 @@
 I am currently a manager of a city centre cocktail bar, regularly creating new and interesting cocktail recipes.
 I have worked in hospitality for over 10 years.
 
-I am studying data science and analytics to help me be able to work remotely so I can move to Spain and travel the world.
+I am studying data science and analytics to help me be able to change careers to one that will allow me to work remotely so I can move to Spain and travel the world.
 
 I am currently learning Python and SQL.
 
