@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am currently a manager of a city centre cocktail bar, regularly creating new and interestin cocktail recipes.
-I have worked ni hospitality for over 10 years.
+I am currently a manager of a city centre cocktail bar, regularly creating new and interesting cocktail recipes.
+I have worked in hospitality for over 10 years.
 
 I am studying data science and analytics to help me be able to work remotely so I can move to Spain and travel the world.
 
